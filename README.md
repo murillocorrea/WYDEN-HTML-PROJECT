@@ -1,12 +1,12 @@
-# Nome do Projeto
+# Wyden HTML Project
 
-Breve descrição sobre o que o projeto faz e sua finalidade.
 
 ## Sumário
 
 - [Nome do projeto](#nomedoprojeto)
 - [Descrição](#descrição)
 - [Requisitos](#requisitos)
+- [Progresso](#progresso)
 - [Grupo](#grupo)
 
 ## Descrição
@@ -24,6 +24,11 @@ Recursos utilizados:
 - Sistema Operacional: `Linux`, `Windows`, `macOS`
 - Visual Code Studio ou outro compilador
 - Não há dependência de bibliotecas externas.
+
+## Progresso
+
+Atualmente, o site não têm funcionalidades operacionais, apenas visuais. 
+Porém, ao decorrer da materia, vamos adicionar essa operação.
 
 ## Grupo
 
