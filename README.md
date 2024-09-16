@@ -1,6 +1,14 @@
 # Wyden HTML Project
 
 
+## Design
+ 
+O design do projeto, até o momento, apresenta as seguintes características:
+
+O layout atual é genérico, sem uma contextualização ou funcionalidade aplicável ao campo principal (main). Nosso foco inicial foi no desenvolvimento das funcionalidades do cabeçalho (header) e suas estilizações básicas, de modo que, após essa etapa, pudéssemos avançar para a estilização e integração das funcionalidades no campo principal.
+
+Investimos um tempo significativo em solucionar problemas relacionados aos componentes "nav__actions", "login", "search" e "contact".
+
 ## Sumário
 
 - [Nome do projeto](#nomedoprojeto)
