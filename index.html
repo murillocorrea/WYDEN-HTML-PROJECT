@@ -128,8 +128,18 @@
                </div>
 
                <div>
-                  <label for="sexo" class="contact__label">Sexo</label>
-                  <input type="radio" placerholder="Qual o seu gênero?" id="sexo" class="contact__input" required />
+                  <p>Gênero</p>
+                  <label for="sexo-m" class="contact__gender">Masculino:</label>
+                  <input type="radio" id="sexo-m" name="sexo" value="Masculino" class="contact__gender" required />
+   
+                  <label for="sexo-f" class="contact__gender">Feminino:</label>
+                  <input type="radio" id="sexo-f" name="sexo" value="Feminino" class="contact__gender" required />
+
+                  <label for="sexo-other" class="contact__gender">Outro:</label>
+                  <input type="radio" id="sexo-other" name="sexo" value="Outro" class="contact__gender" required />
+
+                  <label for="sexo-anon" class="contact__gender">Prefiro não dizer:</label>
+                  <input type="radio" id="sexo-anon" name="sexo" value="Prefiro não dizer" class="contact__gender" required />
                </div>
             </div>
    
